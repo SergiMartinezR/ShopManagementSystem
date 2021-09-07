@@ -1,0 +1,6 @@
+cliente1
+123
+cliente2
+456
+cliente3
+789
